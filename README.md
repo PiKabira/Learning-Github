@@ -1,2 +1,2 @@
 # Learning-Github
-Nothing
+This is my first repository at GitHub.
